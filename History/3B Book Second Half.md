@@ -58,3 +58,22 @@ Built ==low-cost housing==
 Built ==public housing==
 ## 1976s
 Introduced ==HOS==
+
+
+# Return of Hong Kong 
+## 1979s
+Governor ==MacLehose visit China==
+## 1982s
+China and Britain began ==negotiation on HK problem==
+## 1984s
+==signing of Sino-British Joint Declaration==
+China would resume the exercise of sovereignty over HK on 1997/7/1
+## 1985s
+The ==Basic Law Drafting Committee== was formed
+
+# 1990s
+The Basic Law became the ==constitutional document== of HK
+==Principle 'One country,Two systems'==
+
+## 1997
+==The HKSAR was established==
