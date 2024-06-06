@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"015975cbb0a27059","type":"file","file":"LS/mod 13 GDP.md","x":-1960,"y":-3773,"width":640,"height":897},
+		{"id":"610e9b1e851cf6ef","type":"file","file":"LS/mod 16 Role of Chinese Government.md","x":-1920,"y":-2720,"width":640,"height":1360},
+		{"id":"6583d2ee738242b3","type":"file","file":"LS/mod 19 World Trade.md","x":-1920,"y":-1200,"width":640,"height":2400},
+		{"id":"695f3a5c8783487f","type":"file","file":"LS/mod 18 Trade.md","x":-760,"y":-700,"width":700,"height":1400},
+		{"id":"c0b3e387e8cf13f4","type":"file","file":"LS/mod 17 Industrial shift.md","x":-670,"y":-2260,"width":520,"height":440},
+		{"id":"accd41c9f2ad1f01","type":"file","file":"LS/mod 20 Economic globalization.md","x":-3760,"y":-600,"width":720,"height":1200},
+		{"id":"6a84e629ae7a9567","type":"file","file":"LS/mod 15 China Eco.md","x":-2860,"y":-2280,"width":600,"height":480},
+		{"id":"095fb79a1c11328a","type":"file","file":"LS/payment method.md","x":-4520,"y":-3987,"width":1120,"height":1325},
+		{"id":"4ffab10ea4a34307","type":"file","file":"LS/mod 12 Hong Kong finance.md","x":-1195,"y":-4055,"width":870,"height":1460},
+		{"id":"e28d9341814c1f05","type":"file","file":"LS/mod 11 Goods.md","x":-150,"y":-3773,"width":720,"height":897},
+		{"id":"719297dfcd027f27","type":"file","file":"LS/mod 10 The use of resources.md","x":720,"y":-3773,"width":880,"height":920},
+		{"id":"f6df9ce3f5f09f7d","type":"file","file":"LS/__Photo/IMG20240530140929.jpg","x":-1960,"y":-5280,"width":660,"height":880},
+		{"id":"4f0b9471a0424991","type":"file","file":"LS/mod 14 Labour market.md","x":-2400,"y":-4528,"width":960,"height":1510}
+	],
+	"edges":[
+		{"id":"9a31bb3d25f4fccc","fromNode":"c0b3e387e8cf13f4","fromSide":"left","toNode":"610e9b1e851cf6ef","toSide":"right"},
+		{"id":"2e2ce9bede8cbb92","fromNode":"4f0b9471a0424991","fromSide":"bottom","toNode":"6a84e629ae7a9567","toSide":"top"},
+		{"id":"3bcb4b3e597273f0","fromNode":"4ffab10ea4a34307","fromSide":"left","toNode":"015975cbb0a27059","toSide":"right"},
+		{"id":"aa802e8bbe4b0f6c","fromNode":"095fb79a1c11328a","fromSide":"right","toNode":"4f0b9471a0424991","toSide":"left"},
+		{"id":"9d873080ea4de366","fromNode":"e28d9341814c1f05","fromSide":"left","toNode":"4ffab10ea4a34307","toSide":"right"},
+		{"id":"fcdd21ddac99a34b","fromNode":"719297dfcd027f27","fromSide":"left","toNode":"e28d9341814c1f05","toSide":"right"},
+		{"id":"a137299cde73e77d","fromNode":"015975cbb0a27059","fromSide":"left","toNode":"4f0b9471a0424991","toSide":"right"},
+		{"id":"0bd8d0992b8a28fa","fromNode":"6a84e629ae7a9567","fromSide":"right","toNode":"610e9b1e851cf6ef","toSide":"left"},
+		{"id":"16d2043ee7024257","fromNode":"c0b3e387e8cf13f4","fromSide":"bottom","toNode":"695f3a5c8783487f","toSide":"top"},
+		{"id":"de6a2975241f0c0d","fromNode":"6583d2ee738242b3","fromSide":"right","toNode":"695f3a5c8783487f","toSide":"left"},
+		{"id":"8f3bfb487ba3ce71","fromNode":"6583d2ee738242b3","fromSide":"left","toNode":"accd41c9f2ad1f01","toSide":"right"}
+	]
+}

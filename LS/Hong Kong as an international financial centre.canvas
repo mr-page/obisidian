@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"06f7d185e22cb907","type":"text","text":"Good communication facilities ","x":-269,"y":167,"width":349,"height":60,"color":"4"},
+		{"id":"5b420256515535fb","type":"text","text":"Plenty of financial professionsals\n","x":125,"y":163,"width":296,"height":60,"color":"2"},
+		{"id":"7114469b846e8a22","type":"text","text":"HONG KONG\n","x":-39,"y":80,"width":165,"height":50,"color":"2"},
+		{"id":"e2be8f4aace3fcfb","type":"text","text":"The mainland's ==reform and opening up==","x":-446,"y":-50,"width":352,"height":80,"color":"5"},
+		{"id":"7a9c2e868955bf9b","type":"text","text":"==Good Investment environment== ","x":180,"y":-20,"width":320,"height":50},
+		{"id":"addf002b88dd55a7","type":"text","text":"Situated at a favourable ==time zone== ","x":-80,"y":-160,"width":320,"height":60,"color":"6"}
+	],
+	"edges":[
+		{"id":"b95c36f8d08e7a79","fromNode":"7114469b846e8a22","fromSide":"top","toNode":"addf002b88dd55a7","toSide":"bottom","color":"#cf0707"},
+		{"id":"0f1e5cc582fa437a","fromNode":"7114469b846e8a22","fromSide":"left","toNode":"e2be8f4aace3fcfb","toSide":"right","color":"4","label":"Side form maindland"},
+		{"id":"86a71a49f1227c4d","fromNode":"7114469b846e8a22","fromSide":"right","toNode":"7a9c2e868955bf9b","toSide":"left","color":"5"},
+		{"id":"0d5b8147f403bf14","fromNode":"7114469b846e8a22","fromSide":"bottom","toNode":"5b420256515535fb","toSide":"top","color":"2"},
+		{"id":"411d2265892b7ec5","fromNode":"7114469b846e8a22","fromSide":"bottom","toNode":"06f7d185e22cb907","toSide":"top","color":"4"}
+	]
+}
