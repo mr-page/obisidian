@@ -1,4 +1,3 @@
-
 # Europe Union
 Established the ==Economic and monetary Union==
 most members ==Euro to replace their local currencies.==   
