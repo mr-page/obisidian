@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e2c938af2feb9251","type":"file","file":"__Examination/78號 下學期考試 (中一至中五級)、溫習日及中三級全港系統性評估日.pdf","x":-457,"y":-580,"width":457,"height":440},
+		{"id":"1930b2765ab5f373","type":"file","file":"LS/__Photo/WhatsApp Image 2024-06-04 at 21.35.19_adc017eb.jpg","x":-1080,"y":-300,"width":565,"height":738},
+		{"id":"f79211cbf887950b","type":"link","url":"https://google.com","x":-40,"y":-1600,"width":640,"height":458},
+		{"id":"28d753bcfb33221c","type":"link","url":"https://mermaid-js.github.io/mermaid-live-editor/edit#pako:eNpdkLsOgzAMRX8Feaxg6cjQpV2Z2Np0sIiBSHmg4CBViH9vmoi2wtP18bVle4XOSYIaZkamm8LBo6mWs7BFjMfpWVTVpWhZaZ1RkgnG4hE1blF2yDTrY_sfvXqcx0yT3IdCCYa8QSXjWuvHIIBHMiSgjlJSj0GzAGG3aMXArn3ZDmr2gUrwLgwj1D3qOWZhkr-zdsuE9u7cNyWp2PkmvyF9Y3sDC7tXxw","x":-1020,"y":-1383,"width":484,"height":482},
+		{"id":"c76940a8f62a6e86","type":"link","url":"https://google.com","x":-616,"y":-1300,"width":576,"height":498},
+		{"id":"7c223ba56daa3777","type":"link","url":"https://dictionary.cambridge.org/","x":20,"y":-700,"width":400,"height":340}
+	],
+	"edges":[]
+}
