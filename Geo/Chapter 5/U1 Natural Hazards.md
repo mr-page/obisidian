@@ -7,12 +7,8 @@
 > [!NOTE] Natural Harzards
 > ==Cause harm and loss to humans== 
 
-
-
 > [!NOTE] Natural Disasters
 > ==Cause great loss of life and severe property damage==
-
-
 # Major Natural Hazards
 
 ## Geological 
