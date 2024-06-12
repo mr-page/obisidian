@@ -8,6 +8,9 @@ The symbols used to show ==different object/geological features on maps==.
 ==Declared monument==
 
 ![[Pasted image 20240610140653.png]]
+==Hospital / Clinic==
+![[Pasted image 20240612214359.png]]
+
 
 
 # Grid square and Grid Reference
@@ -17,7 +20,7 @@ Vertical grid lines ==(Eastings東行綫)==
 Horizontal grid lines==(Northing北行綫)==
 Northing first and Eastings second
 ![[Pasted image 20240610155322.png]]
-The figure figure grid reference of this figure is 1743
+The four figure grid reference of this figure is 1743
 ![[Pasted image 20240610155436.png]]
 The six figure grid reference of this figure is 323432
 
@@ -43,8 +46,9 @@ West: 270°
 ![[Pasted image 20240610181550.png]]
 
 ## Statement scale 
-1:n m
-1:n Km
+1 cm :n m
+1 cm :n Km
+1 cm :1 km
 
 ## R.F.
 
