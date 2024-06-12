@@ -13,6 +13,7 @@ The symbols used to show ==different object/geological features on maps==.
 
 
 
+
 # Grid square and Grid Reference
 
 Both used to show ==the location== of particular objects on the map
