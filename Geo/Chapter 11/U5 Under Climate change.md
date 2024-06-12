@@ -6,7 +6,7 @@
 Use more solar and wind farms will be built to further ==increase the share of renewable energy.==
 Electric cars can be ==powered by electricity== 
 ### Carrying out waste separation and recycling
-==Separating waste and recycling== reduce the amount of waste treated in landfills and incinerators
+separating waste and recycling ==reduce the amount of waste treated in landfills and incinerators==
 ### Reducing the use of chemical fertilizers in farming
 Reducing the use of chemical fertilizers to ==lower emissions==
 ## Removing greenhouse gases from the atmosphere
