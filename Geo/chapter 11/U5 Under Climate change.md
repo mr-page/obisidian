@@ -35,12 +35,13 @@ Suffer for basic survival needs only
 - Paris Agreement
 
 # Action take by other countries
+
 ## The Netherlands
 Encourage ==cycling by building== 
 ## Japan
 Requires consumers to ==practise waste separation to facilitate recycling== 
-# Canada
-Increase the the energy efficiency of buildings by encouraging the use of ==insulation and the recovery of heart from ventilation(通風)==
+## Canada
+==Increase the the energy efficiency== of buildings by ==encouraging the use of insulation== and the recovery of heat from ventilation(通風)
 ## South Africa
 ==Planting== 
 ## New Zealand
