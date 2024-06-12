@@ -5,8 +5,6 @@ Climate is the ==average weather conditions over many years==
 
 ## Elements
 
-^47a815
-
 - ==Air temperature== (℃ or ℉)
 - ==Wind direction== (N,E,S,W)
 - ==Wind speed== (m/s)

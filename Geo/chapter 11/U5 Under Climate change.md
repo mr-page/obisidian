@@ -63,6 +63,6 @@ Set up an ==emission trading scheme that pay needed==
 - Use public transport such as ==buses and trains==
 
 ## Shopping
-- Bring own shopping bag
-- Buy less
-- Buy local and seasonal food (less travelling distance)
+- Bring ==own shopping bag==
+- Buy ==less==
+- Buy ==local and seasonal food== (less travelling distance)
