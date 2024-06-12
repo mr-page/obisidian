@@ -3,8 +3,8 @@
 ### Reducing energy consumption
 - ==Improving energy efficiency==
 ### Using more renewable energy resources
-Use more solar and wind farms will be built to further ==increase the share renewable energy.==
-Electric can be ==powered by electricity== 
+Use more solar and wind farms will be built to further ==increase the share of renewable energy.==
+Electric cars can be ==powered by electricity== 
 ### Carrying out waste separation and recycling
 ==Separating waste and recycling== reduce the amount of waste treated in landfills and incinerators
 ### Reducing the use of chemical fertilizers in farming

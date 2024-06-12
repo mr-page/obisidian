@@ -10,10 +10,7 @@ The symbols used to show ==different object/geological features on maps==.
 ![[Pasted image 20240610140653.png]]
 ==Hospital / Clinic==
 ![[Pasted image 20240612214359.png]]
-
-
-
-
+## Topographic and hydrographic features ![[Pasted image 20240612215627.png]] ## Other features ![[Pasted image 20240612215844.png]]
 # Grid square and Grid Reference
 
 Both used to show ==the location== of particular objects on the map
