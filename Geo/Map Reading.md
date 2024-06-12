@@ -3,6 +3,7 @@ The symbols used to show ==different object/geological features on maps==.
 ## Railways and roads
 
 ## Buildings
+![[Pasted image 20240612215519.png]]
 
 ## Other  features
 ==Declared monument==
