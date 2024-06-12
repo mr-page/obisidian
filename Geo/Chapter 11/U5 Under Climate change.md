@@ -13,7 +13,7 @@ Reducing the use of chemical fertilizers to ==lower emissions==
 ### Planting more trees 
 Trees can ==absorb carbon dioxide== in the atmosphere
 ### Increasing other carbon sinks
-Carbon sinks such as ==grasslands and wetlands== can also remove carbon dioxide
+==Carbon sinks== such as ==grasslands and wetlands== can also remove carbon dioxide
 
 # International cooperation in combating climate 
 China:
