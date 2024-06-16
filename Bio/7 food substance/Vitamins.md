@@ -9,7 +9,6 @@ F: Form a ==visual pigment==
 Keep the lining of the ==alimentary canal, the breathing system and the skin healthy.==
 
 Deficiency : ==Night blindness==
-
 ## Food resources 
 - Fish liver oil
 - eggs
@@ -23,7 +22,7 @@ F: Necessary for the ==synthesis and repair of the connective tissues==
 help ==heal wounds== and ==keep gum , teeth and skin healthy==
 
 Food resources
-- Green vegetables and citrus fruits like oranges
+- Green vegetables and citrus(柑橘屬) fruits like oranges
 
 # Vitamin D
 fat-soluble 
