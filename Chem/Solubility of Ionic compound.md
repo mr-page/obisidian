@@ -9,3 +9,4 @@
 | $\displaystyle\ce{ PO_{4}^{3-} }$   | **✓**                                           | ✕                                                  | ✕                                          | ✕                                                 |
 ==$\displaystyle\ce{ NO_{3}^{-},Cl-,SO^{2-}_{4}}$ are Acidic
 $\displaystyle\ce{ OH-/O^{2-}.Co_{3}^{2-},PO_{4}^{3-} }$ are alkaline==
+$\displaystyle F=\left.\frac{\partial f}{\partial x}\right|_{\hat x_{k-1}}$
