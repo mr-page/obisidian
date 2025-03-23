@@ -1,6 +1,6 @@
 Sulphuric acid : $\displaystyle\ce{ H_{2}SO_{4} }$\
-Nitrous Acid
-
+Nitrous Acid :$\displaystyle\ce{ NHO_{3} }$\
+Hydrochloric acid : $\displaystyle\ce{ HCl }$
 
 
 
@@ -12,6 +12,6 @@ Nitrous Acid
 
 # Weak acid
 
-$\displaystyle\ce{ CH_{3}COOH }$ : 
+Carboxylic aciid : $\displaystyle\ce{ CH_{3}COOH }$ 
 
 
