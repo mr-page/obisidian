@@ -8,4 +8,4 @@
 | $\displaystyle\ce{ CO_{3}^{2-} }$   | **✓**                                           | ✕                                                  | ✕                                          | ✕                                                 |
 | $\displaystyle\ce{ PO_{4}^{3-} }$   | **✓**                                           | ✕                                                  | ✕                                          | ✕                                                 |
 ==$\displaystyle\ce{ NO_{3}^{-},Cl-,SO^{2-}_{4}}$ are Acidic
-$\displaystyle\ce{ OH-/O^{2-}.Co_{3}^{2-},PO_{4}^{3-} }$ are alkaline==
+$\displaystyle\ce{ OH-/O^{2-}.CO_{3}^{2-},PO_{4}^{3-} }$ are alkaline==
