@@ -15,6 +15,6 @@ Critic acid : $\displaystyle\ce{ C_{6} H_{8}O_{7}}$
 
 # Weak acid
 
-Carboxylic aciid : $\displaystyle\ce{ CH_{3}COOH }$ 
-
+acetic acid(ethanoic acid) : $\displaystyle\ce{ CH_{3}COOH }$ 
+- Pure form $\displaystyle\ce{ CH_{3}COOH }$ named ==glacial acetic acid==
 
