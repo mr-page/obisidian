@@ -14,5 +14,8 @@ because $\displaystyle\ce{ CH_{3}COO- }$ rather to ionize the water and react wi
 whether $\displaystyle\ce{ Na+ }$ doesn't tend to react with $\displaystyle\ce{ H+ }$ or $\displaystyle\ce{ OH- }$
 
 
+# Strong and weak acid
+The stronger acid can form weaker acid by displacement 
+
 
 # Symbol related to molarity, mole, 
