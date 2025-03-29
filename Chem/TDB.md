@@ -13,3 +13,6 @@ but $\displaystyle\ce{ CH_{3}COONa(aq) }$ is alkaline
 because $\displaystyle\ce{ CH_{3}COO- }$ rather to ionize the water and react with $\displaystyle\ce{ H+ }$, left $\displaystyle\ce{ OH- }$
 whether $\displaystyle\ce{ Na+ }$ doesn't tend to react with $\displaystyle\ce{ H+ }$ or $\displaystyle\ce{ OH- }$
 
+
+
+# Symbol related to molarity, mole, 
