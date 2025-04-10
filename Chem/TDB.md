@@ -25,3 +25,5 @@ The stronger acid can form weaker acid by displacement
 
 # The reason burn hydrogen gas 
 Hydrogen is a flammable gas. When it reaches a certain concentration range in the air, it will explode when it encounters a fire source. Excess hydrogen is burned in the device to prevent unreacted hydrogen from accumulating in the device and triggering an explosion after reaching the explosion limit, thus ensuring the safety of the experiment.
+
+
