@@ -25,3 +25,11 @@ $\displaystyle\ce{ HCl }$ is the covalent compound and it will ionizes to $\disp
 Critic acid : $\displaystyle\ce{ C_{6} H_{8}O_{7}}$
 
 Sodium metasilicate : $\displaystyle\ce{ Na_{2}SiO_{3} }$
+
+## Descending order of acidity of Acid
+- Weak acid
+$\displaystyle\ce{ H_{3}PO_{4}>HNO_{2}>HF>HCOOH>CH_{3}COOH>H_{2}CO_{3}>H_{2}S>HClO>HCN }$
+The acidity of weak acids are different
+- Strong acid
+Same acidity in water 
+# Acid rain
