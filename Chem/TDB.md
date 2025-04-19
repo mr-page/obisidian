@@ -40,7 +40,7 @@ its the same
 # Kind of solution
 
 - Solution 
-  - colloid 
-  - suspension
+- colloid 
+- suspension
 
 # Dispersion ( WIP)

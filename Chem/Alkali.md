@@ -8,6 +8,8 @@ Ps: $\displaystyle\ce{ Si(OH)4 }$ also called Orthosilicic acid
 Ps: $\displaystyle\ce{ Al(OH)3 }$ is Amphoteric oxide, shows acidity and alkality at the same time.
 $\displaystyle\ce{ Al(OH)3 }$ is colloid, something like jelly
 
+In the form of colloid, $\displaystyle\ce{ Al(OH)3 }$ can absorb the supsension and 
+
 ## Amphoteric oxide
 ### react with acid
 $\displaystyle\ce{ Al(OH)3 + 3HCl -> AlCl_{3} + 3H_{2}O }$
