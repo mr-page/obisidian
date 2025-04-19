@@ -8,7 +8,6 @@ Hydroiodic acid: $\displaystyle\ce{ HI }$
 
 
 
-
 # Weak acid
 
 acetic acid(ethanoic acid) : $\displaystyle\ce{ CH_{3}COOH }$ 
@@ -26,6 +25,8 @@ Critic acid : $\displaystyle\ce{ C_{6} H_{8}O_{7}}$
 
 Sodium metasilicate : $\displaystyle\ce{ Na_{2}SiO_{3} }$
 
+
+Phorous acid : $\displaystyle\ce{ H_{3}PO_{4} }$
 ## Descending order of acidity of Acid
 - Weak acid
 $\displaystyle\ce{ H_{3}PO_{4}>HNO_{2}>HF>HCOOH>CH_{3}COOH>H_{2}CO_{3}>H_{2}S>HClO>HCN }$
