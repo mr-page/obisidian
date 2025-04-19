@@ -1,3 +1,4 @@
+#Acid
 # Strong acid 
 Hydrochloric acid : $\displaystyle\ce{ HCl (aq)}$ (Absolutely the covalent compound)
 SUlphuric acid : $\displaystyle\ce{ H_{2}SO_{4}(aq) }$
