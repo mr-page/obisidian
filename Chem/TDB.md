@@ -37,3 +37,10 @@ for the alkaline
 its the same
 
 
+# Kind of solution
+
+- Solution 
+  - colloid 
+  - suspension
+
+# Dispersion ( WIP)
