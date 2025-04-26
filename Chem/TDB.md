@@ -47,3 +47,5 @@ its the same
 
 # Tyndall effect(丁達爾效應) #WIP 
 
+# Magnetic and metal
+Only Iron, steel, Nickel, Cobalt these four metal would be affected by the magnetic without conduct electricity
