@@ -52,6 +52,6 @@ Dry with fitler paper
 #### 7. Remove the impurity by magnet(Out of school  but within dse syllabus)
 Put the magnet nearby the crystal to attract the impurities(e.g. pure iron) 
 
-### Purification of $\displaystyle\ce{ MgSO_{4} }$ 
+### Purification of $\displaystyle\ce{ MgSO_{4} }$ #WIP
 The progress of purification is ideal and theoretical, no 100% purification in real experiment.
 
