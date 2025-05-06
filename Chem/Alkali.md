@@ -1,7 +1,7 @@
 #Alkali
 
 > [!NOTE]
-> An alkali is a water-soluble base. IT dissociates or ionizes to give $\displaystyle\ce{ OH-(aq) }$ as the only anion when dissolved in water
+> An alkali is a water-soluble base. It dissociates or ionizes to give $\displaystyle\ce{ OH-(aq) }$ as the only anion when dissolved in water
 ## Strong Alkali
 > [!TLDR]
 > Complete [[Github/obisidian/Chem/C14#Dissociation|dissociate]]in water
@@ -15,7 +15,7 @@
 
 > [!EXAMPLE]
 > 
->- $\displaystyle\ce{ NH_{3} \cdot H_{2}O (\l)}$ 
+>- $\displaystyle\ce{ NH_{3} \cdot H_{2}O (\ell)}$ 
 ## Property of alkali 
 > [!NOTE]
 > Strong alkali can react with salt to form weaker alkali #questioning
