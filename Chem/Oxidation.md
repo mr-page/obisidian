@@ -1,3 +1,7 @@
+---
+tags:
+  - WIP
+---
 $\displaystyle\ce{ H_{2}O_{2}  (aq)}$
 
 $\displaystyle\ce{ KMnO_{4} }$ : Potassium manganate

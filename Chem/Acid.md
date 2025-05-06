@@ -1,10 +1,15 @@
 #Acid
 # Strong acid 
 Hydrochloric acid : $\displaystyle\ce{ HCl (aq)}$ (Absolutely the covalent compound)
-SUlphuric acid : $\displaystyle\ce{ H_{2}SO_{4}(aq) }$
+
+Sulphuric acid : $\displaystyle\ce{ H_{2}SO_{4}(aq) }$
+
 Nitric acid : $\displaystyle\ce{ HNO_{3} (aq)}$
+
 Perchloric acid: $\displaystyle\ce{ HClO_{4} }$
+
 Hydrobromic Acid: $\displaystyle\ce{ HBr }$
+
 Hydroiodic acid: $\displaystyle\ce{ HI }$
 
 
@@ -57,3 +62,10 @@ The acidity of weak acids are different
 - Strong acid
 Same acidity in water 
 # Acid rain
+- $\displaystyle\ce{ SO_{2} }$
+- $\displaystyle\ce{ NO_{2} }$
+- $\displaystyle\ce{ SO_{3} }$
+## Reaction
+$\displaystyle\ce{ SO_{3} + H_{2}O -> H_{2}SO_{4} }$
+$\displaystyle\ce{ SO_{2} + H_{2}O \rightleftharpoons H_{2}SO_{3} }$ 
+$\displaystyle\ce{ 2NO_{2} + H_{2}O \rightleftharpoons HNO_{3} + HNO_{2} }$ 
