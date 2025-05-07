@@ -1,26 +1,27 @@
 {
 	"nodes":[
 		{"id":"4c613e644d31e6cb","type":"text","text":"Acid ","x":-1136,"y":780,"width":250,"height":61},
-		{"id":"9502ab33381fc2c3","type":"file","file":"Github/obisidian/Chem/C16.md","x":144,"y":160,"width":400,"height":400},
-		{"id":"49429f73dbb09f19","type":"file","file":"Github/obisidian/Chem/C17.md","x":-1211,"y":-280,"width":400,"height":400},
+		{"id":"9502ab33381fc2c3","type":"file","file":"Github/obisidian/Chem/C16.md","x":144,"y":160,"width":576,"height":400},
+		{"id":"49429f73dbb09f19","type":"file","file":"Github/obisidian/Chem/C17.md","x":-1320,"y":-280,"width":509,"height":460},
 		{"id":"42469b772ef6513c","type":"text","text":"Nuetralization","x":19,"y":1011,"width":250,"height":60,"color":"#d30d0d"},
-		{"id":"3d5a8aef26b3c365","type":"file","file":"Github/obisidian/Chem/C18.md","x":640,"y":841,"width":400,"height":400},
+		{"id":"3d5a8aef26b3c365","type":"file","file":"Github/obisidian/Chem/C18.md","x":640,"y":841,"width":520,"height":400},
 		{"id":"f1cb0b957259693f","type":"file","file":"Github/obisidian/Chem/Usage of neutralization.md","x":640,"y":1600,"width":400,"height":400},
-		{"id":"e0b5dfdf53904d85","type":"file","file":"Github/obisidian/Chem/C19.md","x":1440,"y":841,"width":400,"height":400},
-		{"id":"8fb9b4cbc49a43fb","type":"file","file":"Github/obisidian/Chem/C14.md","x":-1880,"y":80,"width":400,"height":600},
-		{"id":"abfaec60f2715e8c","type":"file","file":"Github/obisidian/Chem/Bascitiy of acid.md","x":-1286,"y":1600,"width":400,"height":400},
-		{"id":"0b449ef8115b8307","type":"file","file":"Github/obisidian/Chem/Solubility of Ionic compound.md","x":-1720,"y":1280,"width":400,"height":400},
-		{"id":"39bde783f6945f21","type":"file","file":"Github/obisidian/Chem/Easy mistake.md","x":-2240,"y":920,"width":400,"height":400},
-		{"id":"86eb996e6cf826ec","type":"file","file":"Github/obisidian/Chem/Property of acid.md","x":-811,"y":1800,"width":400,"height":400},
-		{"id":"0005675d2084f3d1","type":"file","file":"Github/obisidian/Chem/Acid.md","x":-480,"y":1280,"width":400,"height":400},
-		{"id":"1311cd709f1c36e4","type":"file","file":"Github/obisidian/Chem/Salt.md","x":960,"y":160,"width":400,"height":400},
+		{"id":"8fb9b4cbc49a43fb","type":"file","file":"Github/obisidian/Chem/C14.md","x":-1960,"y":80,"width":480,"height":600},
+		{"id":"0b449ef8115b8307","type":"file","file":"Github/obisidian/Chem/Solubility of Ionic compound.md","x":-1840,"y":1280,"width":520,"height":400},
+		{"id":"1311cd709f1c36e4","type":"file","file":"Github/obisidian/Chem/Salt.md","x":800,"y":160,"width":560,"height":400},
 		{"id":"2a7d82373327efeb","type":"file","file":"Github/obisidian/Chem/C11.md","x":-5280,"y":480,"width":400,"height":400},
-		{"id":"8c813c46ef8034f1","type":"file","file":"Github/obisidian/Chem/C15.md","x":-3025,"y":-360,"width":400,"height":400},
-		{"id":"dbb5e5ff04d54dd3","type":"text","text":"Mole/Molarity","x":-2950,"y":350,"width":250,"height":60},
-		{"id":"89c8f083c52c6bfa","type":"file","file":"Github/obisidian/Chem/C12.md","x":-3616,"y":248,"width":400,"height":400},
+		{"id":"8c813c46ef8034f1","type":"file","file":"Github/obisidian/Chem/C15.md","x":-3025,"y":-360,"width":505,"height":400},
+		{"id":"89c8f083c52c6bfa","type":"file","file":"Github/obisidian/Chem/C12.md","x":-3760,"y":248,"width":544,"height":472},
 		{"id":"1b1e6dd493b6da3e","type":"text","text":"Metal ","x":-5205,"y":1040,"width":250,"height":120},
-		{"id":"c6807ca54ea5bf44","type":"file","file":"Github/obisidian/Chem/C10.md","x":-5960,"y":900,"width":400,"height":400},
-		{"id":"70b0307d9b7c35d3","type":"file","file":"Github/obisidian/Chem/Alkali.md","x":-440,"y":180,"width":400,"height":400}
+		{"id":"c6807ca54ea5bf44","type":"file","file":"Github/obisidian/Chem/C10.md","x":-6400,"y":880,"width":840,"height":420},
+		{"id":"70b0307d9b7c35d3","type":"file","file":"Github/obisidian/Chem/Alkali.md","x":-440,"y":180,"width":520,"height":400},
+		{"id":"e0b5dfdf53904d85","type":"file","file":"Github/obisidian/Chem/C19.md","x":1440,"y":841,"width":640,"height":400},
+		{"id":"abfaec60f2715e8c","type":"file","file":"Github/obisidian/Chem/Bascitiy of acid.md","x":-1265,"y":1600,"width":509,"height":400},
+		{"id":"0005675d2084f3d1","type":"file","file":"Github/obisidian/Chem/Acid.md","x":-440,"y":1200,"width":600,"height":400},
+		{"id":"86eb996e6cf826ec","type":"file","file":"Github/obisidian/Chem/Property of acid.md","x":-640,"y":1760,"width":560,"height":480},
+		{"id":"39bde783f6945f21","type":"file","file":"Github/obisidian/Chem/Easy mistake.md","x":-2640,"y":880,"width":520,"height":520},
+		{"id":"dbb5e5ff04d54dd3","type":"text","text":"Mole/Molarity","x":-2897,"y":350,"width":250,"height":60},
+		{"id":"a78d77208c09adce","x":-5491,"y":1640,"width":822,"height":496,"type":"file","file":"Github/obisidian/Chem/Solubility of Ionic compound.md"}
 	],
 	"edges":[
 		{"id":"588d2baec9158c6c","fromNode":"0b449ef8115b8307","fromSide":"top","toNode":"4c613e644d31e6cb","toSide":"bottom"},
@@ -43,6 +44,7 @@
 		{"id":"036a2f0ad0e29d96","fromNode":"8c813c46ef8034f1","fromSide":"bottom","toNode":"dbb5e5ff04d54dd3","toSide":"top"},
 		{"id":"8f36bf3b0b4b8aea","fromNode":"89c8f083c52c6bfa","fromSide":"right","toNode":"dbb5e5ff04d54dd3","toSide":"left"},
 		{"id":"f20a19f15af04d31","fromNode":"2a7d82373327efeb","fromSide":"bottom","toNode":"1b1e6dd493b6da3e","toSide":"top"},
-		{"id":"dca2432d63dbfeb6","fromNode":"c6807ca54ea5bf44","fromSide":"right","toNode":"1b1e6dd493b6da3e","toSide":"left"}
+		{"id":"dca2432d63dbfeb6","fromNode":"c6807ca54ea5bf44","fromSide":"right","toNode":"1b1e6dd493b6da3e","toSide":"left"},
+		{"id":"6d3f9fc75a025105","fromNode":"a78d77208c09adce","fromSide":"top","toNode":"1b1e6dd493b6da3e","toSide":"bottom"}
 	]
 }
