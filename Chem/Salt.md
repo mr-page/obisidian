@@ -10,7 +10,7 @@ $\newcommand{\l}{\mathcal l }$
 
 
 
-# Preparation of solube salts
+# Preparation of soluble salts
 
 ## The soluble salt 
 ![[Github/obisidian/Chem/Solubility of Ionic compound|Solubility of Ionic compound]]
