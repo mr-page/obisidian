@@ -1,5 +1,5 @@
 
-|                                              | Group I<br>$\displaystyle\ce{ NH_{4}+ ,Na+,K+}$ | Group II<br>$\displaystyle\ce{ Mg^{2}+, Ca+ }$<br> | Group III<br>$\displaystyle\ce{ Al_{3}+ }$ | TM<br>$\displaystyle\ce{Ag^{2}+,Zn^{2}+,Fb^{2}+}$ |
+|                                              | Group I<br>$\displaystyle\ce{ NH_{4}+ ,Na+,K+}$ | Group II<br>$\displaystyle\ce{ Mg^{2}+, Ca+ }$<br> | Group III<br>$\displaystyle\ce{ Al_{3}+ }$ | TM<br>$\displaystyle\ce{Ag^{2}+,Zn^{2}+,Pb^{2}+}$ |
 | -------------------------------------------- | ----------------------------------------------- | -------------------------------------------------- | ------------------------------------------ | ------------------------------------------------- |
 | $\displaystyle\ce{ NO_{3}^{-} /HCO_{3}^{-}}$ | **✓**                                           | **✓**                                              | **✓**                                      | **✓**                                             |
 | $\displaystyle\ce{ Cl^{-} }$                 | **✓**                                           | **✓**                                              | **✓**                                      | **✓(✕$\displaystyle\ce{ PbCl,AgCl }$)**           |
