@@ -17,6 +17,9 @@ Pure $\displaystyle\ce{H2SO4(l)}$: colourless oily solution
 - Contains 35% hydrogen chloride
 - Colourless volatile liquid
 
+> [!IMPORTANT]
+> $conc.\displaystyle\ce{ HCl }$ is  volatile and should be ==operated in fume hood==
+
 ### Concentrated $\displaystyle\ce{HNO3}$
 - Colourless volatile liquid
 - Often turns yellow during storage
