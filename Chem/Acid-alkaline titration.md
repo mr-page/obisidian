@@ -38,3 +38,11 @@ Purging is necessary before titration:
 4. Close the valve and refill to zero graduation 
 
  Air bubbles in the burette tip will cause measurement errors.
+
+
+## Titrate
+Add about 20mL of titrated solution to a conical flask.
+
+Titration rate should decrease from fast to slow until drop-by-drop.
+
+Add solution till the colour of solution change sharply [^1], the range of colour change more close to 7. Less error.
