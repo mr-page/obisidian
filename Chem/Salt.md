@@ -38,7 +38,7 @@ $$
 #### 2. Increase the concentration of $\displaystyle\ce{ MgSO_{4}(aq) }$
    Heat the solution to increase the concentration to saturated state and let the solution warm up
 
-#### 3.Crystalization 
+#### 3.Crystallization 
 leave the saturated solution aside to cool slowly to room temperature.
 #### 4.Filtration 
 Filter the residual solution to obtains the crystals 

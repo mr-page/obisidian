@@ -58,6 +58,6 @@ $$
 1. Absorption
 2. Oxidation
    We want to get $\displaystyle\ce{ CaSO_{4} }$ which more stable than $\displaystyle\ce{CaSO_{3} }$ 
-3. crystalization
+3. crystallization
 
 First, absorb the $\displaystyle\ce{ SO_{2} }$ by solid absorbent and seperate out $\displaystyle\ce{ SO_{2} }$

@@ -7,7 +7,7 @@ Stage 2: The curve isn't vertical but with a very high slope.
 
 After neutralized, the pH become 7 . And more a bit alkaline solutio titrated, the pH leap to around 10+.
 > [!IMPORTANT]
-> The solution neutralized after ==equivalence point==, not always after pH = 7
+> The reaction complete after ==equivalence point==, not always after pH = 7
 
 Stage 3 : After solution become alkaline, the adding of alkaline solution can increase pH gently due to marginal effect.
 
