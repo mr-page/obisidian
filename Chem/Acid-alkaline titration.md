@@ -27,22 +27,30 @@ Don't use alkaline burettes for organic solutions.
 Close the piston (valve for acidic burette, rubber part for alkaline burette) and fill the burette. 
 Check if any solution drips from the jet.
 ### 2. Rinse
-First, add distilled water from the top of the burette and let it flow through the jet, repeating several times. 
+First, add distilled water from the top of the burette and let it flow through the jet, repeating several times.
 
 Then, rinse with titrant in the same manner several times.
 ### 3. purging a burette 
 Purging is necessary before titration:
 1. Turn off the valve 
-2. Fill the burette to the zero graduation 
+2. Fill the burette 
 3. Open the valve slightly to let titrant drip through the jet
-4. Close the valve and refill to zero graduation 
 
  Air bubbles in the burette tip will cause measurement errors.
 
 
 ## Titrate
-Add about 20mL of titrated solution to a conical flask.
+1. Add about 25.0 $\displaystyle cm^{3}$  of titrated solution to a conical flask.
+2. Add few drops of acid-base indicator
+3. Fill the burette and record the inital reading
+4. Run the titrant into conical flask with ==constant swirling of the conical flask== until solution mixture has sharp colour change. 
+5. Record the final reading 
 
 Titration rate should decrease from fast to slow until drop-by-drop.
 
-Add solution till the colour of solution change sharply [^1], the range of colour change more close to 7. Less error.
+### Recording and anaylysing titration result
+
+Titration 1 is usually regarded as a tiral of the experiment. Use for determing the titre( The volume of titrant delivered by the burette ) roughtly
+
+[^1]: 
+The ==tiral or data out of range== will not be used in calculating
