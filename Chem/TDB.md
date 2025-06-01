@@ -54,3 +54,34 @@ $\displaystyle\ce{ Ba(OH)2  + 2NH_{4}Cl ->[heat] BaCl_{2} + 2NH_{3}\uparrow  + 2
 
 $\displaystyle\ce{ CaCo_{3} ->[heat] CaO + CO_{2} }$
 $\displaystyle\ce{ C + CuO ->[heat] Cu + CO_{2} }$
+
+
+
+
+# Indicate of $\displaystyle\ce{ Fe^{3+} }$
+
+$\displaystyle\ce{ KSCN }$ 
+
+solution turn red after react with $\displaystyle\ce{ Fe^{3+} }$
+
+
+# $\displaystyle\ce{ NO_{2} }$
+```tikz
+\usepackage{chemfig}
+\begin{document}
+\chemfig{O - H =O}
+\end{document}
+```
+$\displaystyle\ce{ NO_{2} }$ is formed by $\displaystyle\ce{ N-O }$ and $\displaystyle\ce{ N=O }$ bond which is unstable
+contained the large $\displaystyle \pi$ bond 
+$\displaystyle\ce{ N_{2}O_{4} }$
+
+
+```tikz
+\usepackage{chemfig}
+\begin{document}
+	\chemfig{O-[-6]N (-[-6] O) -N (-[-2] O)(-[-6]O)  }
+\end{document}
+```
+
+
