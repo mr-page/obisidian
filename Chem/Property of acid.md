@@ -43,6 +43,9 @@ Pure $\displaystyle\ce{H2SO4(l)}$: colourless oily solution
 > [!definition] Hygroscopic
 > The Hygroscopic substane will ==absorb the water from other substance like air even out react with them.==
 > This is a physical property
+> 
+> example: $\displaystyle\ce{ H_{2}So_{4},NaOH }$
+
 
 
 

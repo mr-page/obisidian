@@ -12,3 +12,9 @@ $\displaystyle\ce{ NaCO_{3} }$ is alkaline, $\displaystyle\ce{ Na_{2}CO_{3} }$
 # $\displaystyle\ce{ Br,Be }$
 $\displaystyle\ce{ Br }$ : Bromine . Atomic number 35 . Halogen
 $\displaystyle\ce{ Be }$ : Beryllium. Atomic number 4 , alkaline earth metal
+
+
+
+# Usage of inverted funnel
+- Prevent sucking back
+- Increase the surface area of solution
