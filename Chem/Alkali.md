@@ -4,7 +4,7 @@
 > An alkali is a water-soluble base. It dissociates or ionizes to give $\displaystyle\ce{ OH-(aq) }$ as the only anion when dissolved in water
 ## Strong Alkali
 > [!TLDR]
-> Complete [[Github/obisidian/Chem/C14#Dissociation|dissociate]]in water
+> Complete [[Github/obisidian/Chem/C14#Dissociation|dissociate]] in water
 
 - $\displaystyle\ce{ NaOH }$
 - $\displaystyle\ce{ KOH }$
