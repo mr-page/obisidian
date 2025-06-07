@@ -84,4 +84,14 @@ $\displaystyle\ce{ N_{2}O_{4} }$
 \end{document}
 ```
 
+![[Pasted image 20250607120258.png]]
+![[Pasted image 20250607120435.png]]
+# Reaction rate
+- Temperature
+- Concentration
+- Surface area
 
+
+# Chem 
+
+$\displaystyle\ce{ Ca(OH)2 + 2NH_{4}Cl ->[heat] 2NH_{3}(g) + CaCl_{2} + 2H_{2}O }$
