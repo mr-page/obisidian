@@ -30,7 +30,7 @@ Check if any solution drips from the jet.
 First, add distilled water from the top of the burette and let it flow through the jet, repeating several times.
 
 Then, rinse with titrant in the same manner several times.
-### 3. purging a burette 
+### 3. Purging a burette 
 Purging is necessary before titration:
 1. Turn off the valve 
 2. Fill the burette 
