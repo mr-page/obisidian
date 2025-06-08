@@ -16,7 +16,7 @@ The burette hold by stand and burette clamp
 
 There is a valve to control the flowing of solution
 It can be used to contain the ==[[Oxidation|oxidizing]] and acidic== solution
-### Alkaline Burette 
+### Alkaline Burette #extra 
 ![[Pasted image 20250412205101.png]]
 
 Apart of alkaline burette is made by rubber which containing a glass ball to control the flowing of solution by extrude.

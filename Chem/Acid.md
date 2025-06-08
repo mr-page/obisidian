@@ -14,7 +14,7 @@ Hydroiodic acid: $\displaystyle\ce{ HI }$
 
 
 
-# Weak acid
+# Weak acid #extra
 
 acetic acid(ethanoic acid) : $\displaystyle\ce{ CH_{3}COOH }$ 
 - Pure form $\displaystyle\ce{ CH_{3}COOH }$ named ==glacial acetic acid==
@@ -48,20 +48,21 @@ Sodium metasilicate : $\displaystyle\ce{ Na_{2}SiO_{3} }$
 
 
 
-## Silicic acid 
+## Silicic acid #extra 
+
 | Formula                                                    | Name                                                                                     | Computed Structure                   |
 | ---------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------ |
 | $\displaystyle\ce{ H_{4}SiO_{4}  or Si(OH)4}$              | [orthosilicic acid](https://en.wikipedia.org/wiki/Orthosilicic_acid "Orthosilicic acid") | ![[Pasted image 20250419205132.png]] |
 | $\displaystyle\ce{ H_{2}SiO_{3} or SiO(OH)2 }$             | [metasilicic acid](https://en.wikipedia.org/wiki/Metasilicic_acid "Metasilicic acid")    | ![[Pasted image 20250419205305.png]] |
 | $\displaystyle\ce{ H_{6}Si_{2}O_{7} or O(Si(OH)3)2 }$      | [pyrosilicic acid](https://en.wikipedia.org/wiki/Pyrosilicic_acid "Pyrosilicic acid")    | ![[Pasted image 20250419205154.png]] |
 | $\displaystyle\ce{ H_{2}Si_{2}O_{5} or Si_{2}O_{3}(OH)2 }$ | disilicic acid                                                                           | ![[Pasted image 20250419205208.png]] |
-## Descending order of acidity of Acid
+## Descending order of acidity of Acid #extra 
 - Weak acid
 $\displaystyle\ce{ H_{3}PO_{4}>HNO_{2}>HF>HCOOH>CH_{3}COOH>H_{2}CO_{3}>H_{2}S>HClO>HCN }$
 The acidity of weak acids are different
 - Strong acid
 Same acidity in water 
-# Acid rain
+# Acid rain 
 - $\displaystyle\ce{ SO_{2} }$
 - $\displaystyle\ce{ NO_{2} }$
 - $\displaystyle\ce{ SO_{3} }$
