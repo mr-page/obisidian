@@ -95,3 +95,9 @@ $\displaystyle\ce{ N_{2}O_{4} }$
 # Chem 
 
 $\displaystyle\ce{ Ca(OH)2 + 2NH_{4}Cl ->[heat] 2NH_{3}(g) + CaCl_{2} + 2H_{2}O }$
+
+
+# Name of extraction of metal
+electrolysis of molten ore
+thermal reduction
+thermal decomposition

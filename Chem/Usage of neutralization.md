@@ -41,7 +41,7 @@ $\displaystyle\ce{ (NH_{4})2SO_{4}(aq) }$ : $\displaystyle\ce{ H_{2}SO_{4}(aq) +
 
 They are ==very soluble in wtaer and easily absorb, but also easily washed by water==
 ### Flue gas desulphrization
-#### wet desulfurization(To be confirmed) #TBC #Not_Important
+#### wet desulfurization(To be confirmed) #TBC #Not_Important #extra 
 $$
 \begin{gathered}
 \text{Method 1:}\\
@@ -56,7 +56,7 @@ $$
 \end{gathered}
 $$
 
-#### Dry desulfrization(To be confirmed) #TBC #WIP #Not_Important
+#### Dry desulfrization(To be confirmed) #TBC #WIP #Not_Important #extra 
 1. Absorption
 2. Oxidation
    We want to get $\displaystyle\ce{ CaSO_{4} }$ which more stable than $\displaystyle\ce{CaSO_{3} }$ 

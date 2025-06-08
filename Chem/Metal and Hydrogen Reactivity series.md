@@ -10,9 +10,9 @@ $$
 \text{Zinc :}\ce{ Zn }\\
 \text{Iron :}\ce{ Fe }\\
 \text{Tin :}\ce{ Sn }\\
-\text{Lead :}\ce{ Pb }\\
-\text{Copper :}\ce{ Cu }\\
+\text{Lead :}\ce{ Pb }\\ \\
 \text{Hydrogen :}\ce{ H }\\
+\text{Copper :}\ce{ Cu }\\
 \text{Mercury :}\ce{ Hg }\\
 \text{Silver :}\ce{Ag }\\
 \text{Platinum :}\ce{ Pt }\\
