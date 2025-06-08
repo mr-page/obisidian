@@ -1,3 +1,9 @@
+---
+tags:
+  - WIP
+  - extra
+  - TBC
+---
 The solid which inner [^1]point mass(tiny object in certain magnification) arrange periodically in 3 dimensional space.
 
 Most of the crystal are transparent or translucent 
