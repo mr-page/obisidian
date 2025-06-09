@@ -62,7 +62,7 @@ $\displaystyle\ce{ C + CuO ->[heat] Cu + CO_{2} }$
 
 $\displaystyle\ce{ KSCN }$ 
 
-solution turn red after react with $\displaystyle\ce{ Fe^{3+} }$
+solution turn red after react with $\displaystyle\ce{ Fe^{3+} }$ #questioning 
 
 
 # $\displaystyle\ce{ NO_{2} }$
@@ -101,3 +101,13 @@ $\displaystyle\ce{ Ca(OH)2 + 2NH_{4}Cl ->[heat] 2NH_{3}(g) + CaCl_{2} + 2H_{2}O 
 electrolysis of molten ore
 thermal reduction
 thermal decomposition
+
+
+# Colour of gas  #WIP 
+$\displaystyle\ce{ SO_{2} }$ : colourless 
+$\displaystyle\ce{ NO_{2} }$ : red #questioning
+$\displaystyle\ce{ Cl_{2} }$ : yellow-green #questioning 
+$\displaystyle\ce{ F_{2} }$ : pale yellow #questioning 
+$\displaystyle\ce{ Br_{2} }$ : red-brown #questioning 
+
+

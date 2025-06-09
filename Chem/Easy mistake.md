@@ -18,3 +18,13 @@ $\displaystyle\ce{ Be }$ : Beryllium. Atomic number 4 , alkaline earth metal
 # Usage of inverted funnel
 - Prevent sucking back
 - Increase the surface area of solution
+
+
+# solubility 
+$\displaystyle\ce{ CaCO_{3} }$ 
+$\displaystyle\ce{ CaSO_{4} }$
+$\displaystyle\ce{ BaCO_{3} }$
+$\displaystyle\ce{ BaSO_{4} }$
+$\displaystyle\ce{ AgCl }$
+$\displaystyle\ce{ AgBr }$
+$\displaystyle\ce{ AgI }$
