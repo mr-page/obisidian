@@ -111,3 +111,14 @@ $\displaystyle\ce{ F_{2} }$ : pale yellow #questioning
 $\displaystyle\ce{ Br_{2} }$ : red-brown #questioning 
 
 
+
+# Organic compound
+
+All organic copound the covalent compound
+
+
+# Colour of solution
+$\displaystyle\ce{ KMnO_{4} }$ Purple
+
+$\displaystyle\ce{ K_{2}CrO_{7} }$ Yellow
+

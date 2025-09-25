@@ -19,3 +19,9 @@ Oxidation occurs with reduction
 
 $\displaystyle\ce{ S : -2,0,4,6 }$
 $\displaystyle\ce{  }$
+
+# Oxidation agent
+Which valence decreased after reaction
+
+# Reduction agent
+Which valence increased after reaction
