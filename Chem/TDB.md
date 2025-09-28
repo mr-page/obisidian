@@ -122,3 +122,11 @@ $\displaystyle\ce{ KMnO_{4} }$ Purple
 
 $\displaystyle\ce{ K_{2}CrO_{7} }$ Yellow
 
+
+
+# Subsitution and Displacement
+
+Subsitution(取代)  occur in organic only
+
+Displacement(置換) occur in inoragnic only
+
