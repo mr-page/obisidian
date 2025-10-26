@@ -19,3 +19,6 @@ They are having similar property
 > [!EXAMPLE]
 > $\displaystyle\ce{ AgCl }$ is water-insolube and $\displaystyle\ce{ AgBr }$ is also water-insoluble
 
+> [!EXAMPLE]
+> Sulfide insoluble
+

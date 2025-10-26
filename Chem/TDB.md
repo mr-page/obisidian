@@ -130,3 +130,20 @@ Subsitution(取代)  occur in organic only
 
 Displacement(置換) occur in inoragnic only
 
+# N,O Never positive valence
+
+
+# The valence of central atom of non-polar
+It's absolute value of valence of central atom of non-polar also be the number of it's group number
+
+If not 
+it is  polar
+
+# The Polarity of dative covalent bond not to be discussed current stage
+
+
+# the hydrogen bond
+
+Hydrogen bond between molecule increase the b.p/m.p
+
+Hydrogen bond within molecule decrease the b.p/m.p
